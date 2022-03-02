@@ -1,7 +1,8 @@
-main {
+/*main {
   background-color: lightgray;
   align-self: auto;
-}
+}*/
+
 
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
 table,
 td,
 th {
-  border: 1px solid rgb(50, 50, 50);
+  border: 1px solid black;
   margin: auto;
 }
 
@@ -21,6 +22,7 @@ th {
   align-content: center;
   text-align: center;
   font-size: 18px;
+  color: white;
 }
 
 td {
@@ -28,4 +30,6 @@ td {
   align-content: center;
   text-align: center;
   font: 1em sans-serif;
+  color: lawngreen;
+
 }
